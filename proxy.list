@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kinozal.tv
-DOMAIN-SUFFIX,rutracker.org
+DOMAIN-KEYWORD,rutracker
 DOMAIN-SUFFIX,flibusta.is
 # X/Twitter
 DOMAIN-KEYWORD,twitter
